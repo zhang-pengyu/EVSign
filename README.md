@@ -2,7 +2,7 @@
 We release a event-based benchmark for Continuous Sign Language Recognition and Translation
 
 # News
-
+* Jul/1/2024 EvSign is accepted by ECCV 2024.
 
 # Reference
 If you find this benchmark useful, please cite
