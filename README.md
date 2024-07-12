@@ -2,6 +2,7 @@
 We release a event-based benchmark for Continuous Sign Language Recognition and Translation
 
 # News
+* Jul/12/2024 The project will be available at [https://zhang-pengyu.github.io/EVSign/](https://zhang-pengyu.github.io/EVSign/). Now under construction.
 * Jul/1/2024 EvSign is accepted by ECCV 2024.
 
 # Reference
